@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Dana White",
+    "occupation": "Owner",
+    "gym": "UFC"
+  },
+  {
+    "id": 2,
+    "name": "Jon Jones",
+    "occupation": "Manager",
+    "gym": "Jackson Gym"
+  },
+  {
+    "id": 3,
+    "name": "Connor McGregor",
+    "occupation": "Promoter",
+    "gym": "AKA"
+  },
+  {
+    "id": 4,
+    "name": "Khabib Nurmagomedov",
+    "occupation": "Translator",
+    "gym": "Top Team"
+  },
+  {
+    "id": 5,
+    "name": "Cody Garbrandt",
+    "occupation": "Server",
+    "gym": "Alpha Male"
+  },
+  {
+    "id": 6,
+    "name": "Tito Ortiz",
+    "occupation": "Bouncer",
+    "gym": "Alpha Male"
+  },
+  {
+    "id": 7,
+    "name": "Yoel Romero",
+    "occupation": "Bouncer",
+    "gym": "Top Team"
+  },
+  {
+    "id": 8,
+    "name": "Izzy Adesanya",
+    "occupation": "Dancer",
+    "gym": "City MMA"
+  },
+  {
+    "id": 9,
+    "name": "Jorger Masvidal",
+    "occupation": "Server",
+    "gym": "Top Team"
+  },
+  {
+    "id": 10,
+    "name": "Derrick Lewis",
+    "occupation": "Bouncer",
+    "gym": "AKA"
+  },
+  {
+    "id": 11,
+    "name": "Stephen Thompson",
+    "occupation": "Dancer",
+    "gym": "City MMA"
+  },
+  {
+    "id": 12,
+    "name": "Stipe Miocic",
+    "occupation": "Chef",
+    "gym": "AKA"
+  },
+  {
+    "id": 13,
+    "name": "Daniel Cormier",
+    "occupation": "Bus Boy",
+    "gym": "AKA"
+  }
+]
