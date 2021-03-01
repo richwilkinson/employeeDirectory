@@ -73,7 +73,6 @@ class Table extends React.Component {
           <table className="table table-striped table-resposive text-center table-hover">
               <thead>
                 <tr>
-                  <th>Image</th>
                   <th>First Name <span className="downArrow" onClick={this.sortByFName}></span></th>
                   <th>Last Name <span className="downArrow" onClick={this.sortByLName}></span></th>
                   <th>Phone</th>
@@ -101,7 +100,6 @@ class Table extends React.Component {
                     item.name.last.toLowerCase().includes(this.state.search) ?
                       <tbody>
                         <tr>
-                        
                           <td >{item.name.first}</td>
                           <td >{item.name.last}</td>
                           <td >{item.phone} </td>
