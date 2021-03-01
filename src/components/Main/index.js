@@ -1,6 +1,7 @@
 import React from "react";
 import employees from "../../utils/employees.json";
 import Search from "../Query"
+import "./style.css";
 
 class Table extends React.Component {
 
