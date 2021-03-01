@@ -1,19 +1,25 @@
 import React from 'react';
-import employees from '../../employees.json';
-import FightCard from '../FightCard';
 
-const Search = (props) =>  {
-    return (
-       <div>
-           <input className='userInput' onChange={(e)=>{ 
-            props.setFilter(e.target.value);
-
-        }}></input>
-        <button onClick={() => props.byName(props.filter)}>Search By Name</button>
-       </div> 
-    )
-}
-
-
-
-export default Search;
+const SearchBar = (props) => {
+    //const context = useContext(DataAreaContext)
+    
+      return (
+        <form>
+        <div className="form-group search-widget">
+          <div className="input-group mb-3">
+      
+            <input
+              onChange={props.handleInputChange}
+              value={props.search}
+              name="search"
+              type="text"
+              className="form-control"
+              placeholder='Search directory for Employee'
+              id="search"
+            />
+          </div>
+        </div>
+      </form>
+      );
+    }
+    export default SearchBar;

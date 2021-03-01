@@ -1,79 +1,118 @@
 [
   {
     "id": 1,
-    "name": "Dana White",
+    "name": {
+      "first": "Dana",
+      "last": "White"
+    },
     "occupation": "Owner",
     "gym": "UFC"
   },
   {
     "id": 2,
-    "name": "Jon Jones",
+    "name":{ 
+      "first": "Jon",
+      "last": "Jones"
+    },
     "occupation": "Manager",
     "gym": "Jackson Gym"
   },
   {
     "id": 3,
-    "name": "Connor McGregor",
+    "name": {
+      "first": "Connor",
+      "last": "McGregor"
+    },
     "occupation": "Promoter",
     "gym": "AKA"
   },
   {
     "id": 4,
-    "name": "Khabib Nurmagomedov",
+    "name": {
+      "first": "Khabib",
+      "last": "Nurmagomedov"
+    },
     "occupation": "Translator",
     "gym": "Top Team"
   },
   {
     "id": 5,
-    "name": "Cody Garbrandt",
+    "name": {
+      "first": "Cody",
+      "last": "Garbrandt"
+    },
     "occupation": "Server",
     "gym": "Alpha Male"
   },
   {
     "id": 6,
-    "name": "Tito Ortiz",
+    "name": {
+      "first": "Tito",
+      "last": "Ortiz"
+    },
     "occupation": "Bouncer",
     "gym": "Alpha Male"
   },
   {
     "id": 7,
-    "name": "Yoel Romero",
+    "name": {
+      "first": "Yoel",
+      "last": "Romero"
+    },
     "occupation": "Bouncer",
     "gym": "Top Team"
   },
   {
     "id": 8,
-    "name": "Izzy Adesanya",
+    "name": {
+      "first": "Izzy",
+      "last": "Adesanya"
+    },
     "occupation": "Dancer",
     "gym": "City MMA"
   },
   {
     "id": 9,
-    "name": "Jorger Masvidal",
+    "name": {
+      "first": "Jorge",
+      "last": "Masvidal"
+    },
     "occupation": "Server",
     "gym": "Top Team"
   },
   {
     "id": 10,
-    "name": "Derrick Lewis",
+    "name": {
+      "first": "Derrick", 
+      "last": "Lewis"
+    },
     "occupation": "Bouncer",
     "gym": "AKA"
   },
   {
     "id": 11,
-    "name": "Stephen Thompson",
+    "name": {
+      "first": "Stephen",
+      "last": "Thompson"
+    },
     "occupation": "Dancer",
     "gym": "City MMA"
   },
   {
     "id": 12,
-    "name": "Stipe Miocic",
+    "name": {
+      "first": "Stipe",
+      "last": "Miocic"
+    },
     "occupation": "Chef",
     "gym": "AKA"
   },
   {
     "id": 13,
-    "name": "Daniel Cormier",
+    "name": {
+      "first": "Daniel",
+      "last": "Cormier"
+    },
     "occupation": "Bus Boy",
     "gym": "AKA"
   }
